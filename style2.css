@@ -1,0 +1,28 @@
+h1,p,h3 {
+    text-align: center;
+    color: red;
+}
+
+a:active {
+    color: red;
+    background-color: blue;
+}
+
+a:hover {
+    color: green;
+}
+
+a:link {
+    color: darkorange;
+}
+
+a:visited {
+    color: magenta;
+}
+
+input:focus{
+    color: rgb(red green blue / alpha);
+    background-color: green;
+}
+
+/* STRUCTURAL PSEUDO CLASSES */

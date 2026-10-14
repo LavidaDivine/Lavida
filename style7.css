@@ -1,0 +1,11 @@
+p{
+    /* display: none; */
+    visibility: hidden;
+    /* font-family: "Isometra", serif; */
+    font-style: italic;
+    font-weight: 900;
+    font-size: 20px;
+    font-variant: small-caps;
+    /* text-transform: uppercase */
+
+}

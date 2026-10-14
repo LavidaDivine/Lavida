@@ -1,0 +1,83 @@
+*{
+    /* margin: 0; */
+}
+
+div{
+    /* margin: 200px; */
+}
+
+p {
+    /* margin: 0 inherit; */
+    border: 10px solid red;
+    padding: 200px;
+    width: 300px;
+    box-sizing: border-box;
+}
+
+.pop{
+    /* margin: 100px 20px 200px 50px; */
+}
+
+button{
+    /* margin: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px; */
+
+    padding: 30px 50px;
+}
+
+h2{
+    height: 200px;
+    width: 200px;
+    margin: 30px 0px 30px 20px;
+    border: 2px solid #000;
+    border-radius: 50%;
+    background-color: powderblue;
+    text-align: center;
+    align-content: center;
+    outline: 3px solid red;
+    outline-offset: 15px ;
+}
+
+span{
+    color: green;
+}
+
+.page{
+    text-align: justify;
+    text-align-last: center;
+    font-family: Algerian;
+}
+
+h3{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+
+a{
+    /* text-decoration: none; */
+    /* text-decoration-color: green;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 5px; */
+
+    text-decoration:underline wavy red 2px;
+}
+
+h4{
+    text-transform: uppercase;
+    text-indent: 50px;
+    /* letter-spacing: 1px; */
+    word-spacing: 2px;
+    /* to make the whole paragraph be in a straight line */
+    /* white-space: nowrap;  */
+    
+    line-height: 50px;
+    text-shadow: 5px 5px 5px grey;   
+}
+
+body {
+    /* background: linear-gradient(to right, blue 20%, green, orange); */
+}
+

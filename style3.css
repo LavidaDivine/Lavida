@@ -1,0 +1,22 @@
+h1:first-child{
+    color: green;
+}
+
+h1:nth-child(4){
+    color: purple;
+}
+
+h1:last-child{
+    color: blue;
+}
+
+input{
+    border-color: rgb(158, 17, 17);
+}
+body {
+    background-image: url(food2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
